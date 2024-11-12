@@ -1,0 +1,15 @@
+[browser]
+# The page title/name shown in the browser tab
+pageTitle = "Inventory Analysis"
+
+[ui]
+# Hide the default Streamlit menu and footer
+hideTopBar = false
+
+[theme]
+# Your pages should be defined in the theme section instead
+primaryColor = "#FF4B4B"
+backgroundColor = "#0E1117"
+secondaryBackgroundColor = "#262730"
+textColor = "#FAFAFA"
+font = "sans serif"
